@@ -1,1 +1,2 @@
-# Project-Customer-Churn-Rate-Prediction
+# Project: Customer Churn Rate Prediction
+
