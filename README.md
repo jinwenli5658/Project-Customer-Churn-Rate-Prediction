@@ -11,5 +11,5 @@ Naive Bayes Classifier: Prior Probability to create a posterior probability base
 
 Compare Confustion matrix, ROC, AUC to determine the model with best performance.
 
-## Takeaways  </br>
+## Takeaways:  </br>
 Use Random Forest Classifier to identify the best features in the model
